@@ -8,7 +8,7 @@
 <!-- TABLE OF CONTENTS -->
 ## 목차
 
-**1. [프로젝트 개요](#MotionBeat)**
+**1. [프로젝트 개요](#SnowRail)**
 
 **2. [서비스 소개](#Intro)**
 
@@ -21,11 +21,11 @@
 
 <!-- ABOUT THE PROJECT-->
 
-<a name="MotionBeat"></a>
+<a name="SnowRail"></a>
 ## 프로젝트 개요
 프로젝트 기간 : 2024.04.18 ~ 2023.05.24 (5주)
 
-팀원 : [김현우](https://github.com/kugorang)(BE), [남재희](https://github.com/jaenam615)(BE), [문성준](https://github.com/camelisthebestconvention)(FE), [전인우](https://github.com/indwoo)(FE), [이상림](https://github.com/anythiw)(FE)
+팀원 : [정종문](https://github.com/JeongJongMun)(Client), [최하빈](https://github.com/haaaabin)(Client), [이성주](https://github.com/mkae21)(Client), [김예림](https://github.com/kimyerim-jungle)(Server), [백강민](https://github.com/EririnG)(Server)
 
 #### 기술 스택
 | 분류 | 기술 | 
