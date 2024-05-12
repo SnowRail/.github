@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 
-![image](https://github.com/motionbeat/.github/blob/main/profile/gitbannerfixed.png?raw=true)
+![image](https://github.com/SnowRail/.github/assets/101979073/9927ba72-652a-43e3-a9b1-02e78968afb6)
 
 
 <!-- TABLE OF CONTENTS -->
