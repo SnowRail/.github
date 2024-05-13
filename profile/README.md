@@ -2,8 +2,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 
-![image](https://github.com/SnowRail/.github/assets/101979073/9927ba72-652a-43e3-a9b1-02e78968afb6)
-
+![sleighers banner from jaenam](https://github.com/SnowRail/Client/assets/101979073/1bcc1002-32b8-41f9-8fe1-78111689197f)
 
 <!-- TABLE OF CONTENTS -->
 ## 목차
@@ -57,3 +56,6 @@
 <a name="Poster"></a>
 ## 프로젝트 포스터
 ![image](poster)
+
+
+![image](https://github.com/SnowRail/.github/assets/101979073/9927ba72-652a-43e3-a9b1-02e78968afb6)
